@@ -1,0 +1,45 @@
+h2{
+    margin-top: -450px;
+    margin-left: 400px;
+    color: rgb(216, 18, 77);
+   font-size: 50px;
+   font-family: cursive;
+}
+#first{
+    color: rgb(216, 18, 77);
+    font-size: 20px;
+    margin-left: 350px;
+    font-family: cursive;
+    font-size: 30px;
+}
+button{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(204, 14, 55);
+    margin-left: 600px;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    font-family: cursive;
+    border-radius: 10px;
+   
+}
+#out{
+    color: rgb(216, 18, 77);
+    margin-left: 400px;
+    margin-top: 10px;
+    font-family: cursive;
+}
+#number{
+    width: 250px;
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+    margin-left:50px ;
+    text-align: center;
+    font-size: x-large;
+    color: brown;
+    
+   
+}
+
